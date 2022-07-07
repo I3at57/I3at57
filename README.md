@@ -1,4 +1,4 @@
-# printf("Hello World ! :waves:");
+# printf("Hello World ! :wave:");
 ---
 
 I am a third year student at the Technological University of Troyes <a href="https://www.utt.fr/">UTT</a> in industrial engineering.
